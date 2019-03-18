@@ -92,9 +92,13 @@ Coursera链接：<https://www.coursera.org/specializations/deep-learning>?
 
 caffe有点老了，不过用起来是真简单，仅仅写个配置文件就可以；后面两种Pytorch相当更加简单，目前使用的人数也越来越多。我个人可能会推荐新手入**Pytorch**。
 
+**Tensorflow VS Pytorch**
+https://zhuanlan.zhihu.com/p/28636490
+
 **Pytorch**
 
-我自己对Pytorch不太熟，仅推荐一下**官网的例程**：<https://pytorch.org/tutorials/>
+1. 推荐一下**官网的例程**：<https://pytorch.org/tutorials/>
+2. https://github.com/zergtant/pytorch-handbook
 
 **Tensorflow**
 
