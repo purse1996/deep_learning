@@ -38,7 +38,7 @@ Coursera链接：<https://www.coursera.org/specializations/deep-learning>?
 
 #### 1.3 GAN:李宏毅
 
-近几年**Generative Adversarial Nets（GAN）**在图像生成领域非常热门，GAN相对于CNN等要更难一点，这里推荐一门台湾大学李宏毅老师的课程：
+近几年** Generative Adversarial Net(GAN) ** 在图像生成领域非常热门，GAN相对于CNN等要更难一点，这里推荐一门台湾大学李宏毅老师的课程：
 
 <https://www.bilibili.com/video/av24011528?from=search&seid=6688870280045495912>
 
@@ -62,7 +62,7 @@ Coursera链接：<https://www.coursera.org/specializations/deep-learning>?
 
 1. 推荐个人觉得一个讲CNN特性很好的一篇文章，其中动图做的很出色，比较形象的展示了CNN的一些特性：
 
-    <https://zhuanlan.zhihu.com/p/27642620ut?m_source=qq&utm_medium=social&utm_oi=669491138298253312>
+    https://zhuanlan.zhihu.com/p/27642620
 
 2. 来自南大Lamda组某大佬的一个关于神经网络训练的的一些心得：
 
