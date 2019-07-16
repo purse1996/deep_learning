@@ -85,6 +85,8 @@ Coursera链接：<https://www.coursera.org/specializations/deep-learning>?
 2. 廖雪峰老师的也很受欢迎，但个人觉得**稍微有点难**
 
    <https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000>
+3. github很火的python教程
+   https://github.com/jackfrued/Python-100-Days
 
 #### 2.2 深度学习框架
 
@@ -99,6 +101,7 @@ https://zhuanlan.zhihu.com/p/28636490
 
 1. 推荐一下**官网的例程**：<https://pytorch.org/tutorials/>
 2. https://github.com/zergtant/pytorch-handbook
+3. pytorch example:https://github.com/pytorch/examples
 
 **Tensorflow**
 
